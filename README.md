@@ -26,8 +26,8 @@ The project consists of two core components:
 * **Root / Sudo Privileges** (Required for running `useradd` and `chpasswd`).
 
   ---
-  ## Installation
-  ### 1. Clone the Repository
+## Installation
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/abdhamed22/linux-user-provisioning-automation.git
 cd linux-user-provisioning-automation
